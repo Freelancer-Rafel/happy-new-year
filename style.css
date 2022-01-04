@@ -473,7 +473,7 @@ p.num {
     margin-bottom: 80px;
 }
 .soceal-a img:hover {
-    transform: rotateX(360deg);
+    transform: rotateY(360deg);
     transition: .5s;
 
 }
